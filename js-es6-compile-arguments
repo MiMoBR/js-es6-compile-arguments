@@ -1,0 +1,9 @@
+function meetingTeams(...args){
+    const [spfc,santos] = args;
+}
+
+console.log(meetingTeams)
+
+meetingTeams(...args){
+    const [spfc,santos] = args;
+}
